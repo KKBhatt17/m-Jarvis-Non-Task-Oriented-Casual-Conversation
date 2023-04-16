@@ -5,4 +5,4 @@ In this project we created a non task-oriented neural conversational AI which is
 
 We have also created a GUI/web interface for Human-Computer interaction where the user can give sentence and the model can generate a response in a dialogue form. 
 
-![My Image](images/gui1.jpg)
+![My Image](images/gui1.png)
